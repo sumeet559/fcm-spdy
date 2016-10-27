@@ -1,6 +1,6 @@
 {
   "name": "fcm-spdy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FCM using HTTP/2 client",
   "main": "index.js",
   "author": "Sumeet Tiwari <sumeet.tiwari@tlkn.com>",
